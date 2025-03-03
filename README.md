@@ -4,7 +4,7 @@
 
 使用 Bright Data 的先进 CAPTCHA 解决技术，轻松绕过 DataDome CAPTCHA。通过机器学习算法、[自动化 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保对目标网站的无缝且持续的访问。
 
-Bright Data 的 CAPTCHA Solver 是我们 [**Scraping Browser**](https://www.bright.cn/products/scraping-browser) 和 [**Web Unlocker API**](https://www.bright.cn/products/web-unlocker) 的内置功能，可轻松处理最复杂的 CAPTCHA 挑战，为您提供完善的解决方案。
+Bright Data 的 CAPTCHA Solver 是我们 [**抓取浏览器**](https://www.bright.cn/products/scraping-browser) 和 [**网络解锁器 API**](https://www.bright.cn/products/web-unlocker) 的内置功能，可轻松处理最复杂的 CAPTCHA 挑战，为您提供完善的解决方案。
 
 --------------------------------------------------------------------------------
 
